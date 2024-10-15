@@ -26,7 +26,7 @@ import { ListagemCategoria } from '../../categorias/models/categoria.models';
     MatTooltipModule,
     MatChipsModule,
   ],
-  templateUrl: './listagem-notas.component.html',
+  templateUrl: '/listagem-notas.component.html',
   styleUrl: './listagem-notas.component.scss',
 })
 export class ListagemNotasComponent implements OnInit {
