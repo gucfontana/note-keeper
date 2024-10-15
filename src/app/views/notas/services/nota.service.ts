@@ -19,7 +19,7 @@ import {
   NotaCriada,
   NotaEditada,
   NotaExcluida,
-} from '../models/nota.model';
+} from '../models/nota.models';
 
 @Injectable({
   providedIn: 'root',
